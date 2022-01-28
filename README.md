@@ -17,5 +17,18 @@ See the [Slshx repository](https://github.com/mrbbot/slshx) for setup instructio
 
 Also, install [wrangler](https://github.com/cloudflare/wrangler)
 
+```
+npm run dev
+```
+
+## Build
+
+Deploy to Cloudflare first, than deploy/update your commands for Discord
+
+```
+npm run deploy:cf
+npm run deploy:global
+```
+
 ## Add to your server
 https://discord.com/api/oauth2/authorize?client_id=936329215857553480&scope=applications.commands
