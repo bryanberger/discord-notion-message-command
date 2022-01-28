@@ -4,6 +4,8 @@ A context menu message command that rewrites notion links from `https://` to `no
 
 > Currently notion:// links aren't clicakble in Discord, so this is not that useful currently lol.
 
+![demo](.github/demo.gif?raw=true)
+
 ## Develop
 
 This is the starter template for **Slshx**, a library for building strongly-typed
@@ -14,3 +16,6 @@ React-inspired syntax.
 See the [Slshx repository](https://github.com/mrbbot/slshx) for setup instructions.
 
 Also, install [wranger](https://github.com/cloudflare/wrangler)
+
+## Add to your server
+https://discord.com/api/oauth2/authorize?client_id=936329215857553480&scope=applications.commands
