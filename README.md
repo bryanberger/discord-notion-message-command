@@ -1,8 +1,8 @@
 # Discord Notion Message Rewrite Command
 
-Cloudflare Worker to find and rewrite notion links from `https://` to `notion://` to open directly in app rather than your browser.
+A context menu message command that rewrites notion links from `https://` to `notion://` to open directly in app rather than your browser.
 
-> Currently notion:// links aren't clicakble in Discord, so this is not that useful currenly lol.
+> Currently notion:// links aren't clicakble in Discord, so this is not that useful currently lol.
 
 ## Develop
 
